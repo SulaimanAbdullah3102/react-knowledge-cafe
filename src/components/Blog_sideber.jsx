@@ -1,10 +1,20 @@
 
-const Blog_sideber = () => {
+import PropTypes from 'prop-types';
+import Bookmarks from './Bookmarks';
+
+const Blog_sideber = ({bookmarks}) => {
     return (
-        <div className="w-1/3">
-            <h1>Sideber</h1>
+        <div>
+            <h1>Bookmarks : {bookmarks.length}</h1>
+            {
+                bookmarks.map((bookmarks,idx) => <Bookmarks key={idx} bookmarks={bookmarks}></Bookmarks>)
+            }
         </div>
     );
+};
+
+Blog_sideber.propTypes = {
+    bookmarks : PropTypes.array
 };
 
 export default Blog_sideber;
