@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/JtH108D/flat-lay-keyboard-headphones-desktop.jpg",
+        "title": "Understanding HTML and CSS",
+        "author_img": "https://i.ibb.co.com/sP2J5CQ/girl1.jpg",
+        "author_name": "Alice Johnson",
+        "posted_date": "Sep 14 (1 month 14 days ago)",
+        "reading_time": 8,
+        "hashtag": ["#HTML", "#CSS", "#WebDevelopment"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/GsF727w/top-view-desk-concept-with-coffee.jpg",
+        "title": "Mastering JavaScript for Beginners",
+        "author_img": "https://i.ibb.co.com/SXs51V6/boy1.png",
+        "author_name": "Michael Lee",
+        "posted_date": "Aug 10 (2 months 18 days ago)",
+        "reading_time": 12,
+        "hashtag": ["#JavaScript", "#Coding", "#WebDevelopment"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/JtH108D/flat-lay-keyboard-headphones-desktop.jpg",
+        "title": "Responsive Web Design Principles",
+        "author_img": "https://i.ibb.co.com/sP2J5CQ/girl1.jpg",
+        "author_name": "Sarah Green",
+        "posted_date": "Jul 19 (3 months 9 days ago)",
+        "reading_time": 5,
+        "hashtag": ["#WebDesign", "#Responsive", "#CSS"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/GsF727w/top-view-desk-concept-with-coffee.jpg",
+        "title": "Building Your First Web Application",
+        "author_img": "https://i.ibb.co.com/SXs51V6/boy1.png",
+        "author_name": "David Kim",
+        "posted_date": "Oct 02 (26 days ago)",
+        "reading_time": 15,
+        "hashtag": ["#WebDevelopment", "#JavaScript", "#Frontend"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/JtH108D/flat-lay-keyboard-headphones-desktop.jpg",
+        "title": "SEO Basics for Web Developers",
+        "author_img": "https://i.ibb.co.com/sP2J5CQ/girl1.jpg",
+        "author_name": "Emily Zhang",
+        "posted_date": "Jun 05 (4 months 23 days ago)",
+        "reading_time": 9,
+        "hashtag": ["#SEO", "#WebDevelopment", "#Marketing"]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co.com/JtH108D/flat-lay-keyboard-headphones-desktop.jpg",
+        "title": "JavaScript Frameworks: A Comparison",
+        "author_img": "https://i.ibb.co.com/SXs51V6/boy1.png",
+        "author_name": "James Brown",
+        "posted_date": "Sep 28 (1 month ago)",
+        "reading_time": 7,
+        "hashtag": ["#JavaScript", "#Frameworks", "#WebDevelopment"]
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co.com/GsF727w/top-view-desk-concept-with-coffee.jpg",
+        "title": "APIs: How to Build and Use Them",
+        "author_img": "https://i.ibb.co.com/sP2J5CQ/girl1.jpg",
+        "author_name": "Olivia Williams",
+        "posted_date": "May 20 (5 months 8 days ago)",
+        "reading_time": 10,
+        "hashtag": ["#APIs", "#WebDevelopment", "#Programming"]
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co.com/JtH108D/flat-lay-keyboard-headphones-desktop.jpg",
+        "title": "Debugging Your Web Applications",
+        "author_img": "https://i.ibb.co.com/SXs51V6/boy1.png",
+        "author_name": "Daniel Thompson",
+        "posted_date": "Aug 22 (2 months 6 days ago)",
+        "reading_time": 6,
+        "hashtag": ["#Debugging", "#WebDevelopment", "#JavaScript"]
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co.com/JtH108D/flat-lay-keyboard-headphones-desktop.jpg",
+        "title": "Version Control with Git",
+        "author_img": "https://i.ibb.co.com/sP2J5CQ/girl1.jpg",
+        "author_name": "Sophia Martinez",
+        "posted_date": "Jul 15 (3 months 13 days ago)",
+        "reading_time": 11,
+        "hashtag": ["#Git", "#VersionControl", "#WebDevelopment"]
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co.com/JtH108D/flat-lay-keyboard-headphones-desktop.jpg",
+        "title": "Creating User-Friendly Interfaces",
+        "author_img": "https://i.ibb.co.com/SXs51V6/boy1.png",
+        "author_name": "Liam Garcia",
+        "posted_date": "Sep 10 (1 month 18 days ago)",
+        "reading_time": 13,
+        "hashtag": ["#UI", "#UX", "#WebDesign"]
+    }
+]
