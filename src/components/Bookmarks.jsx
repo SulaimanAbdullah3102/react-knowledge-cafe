@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
-const Bookmarks = ({bookmarks}) => {
-    const {title} = bookmarks;
+const Bookmarks = ({bookmark}) => {
+    const {title} = bookmark;
     return (
         <div  className='bg-slate-300 p-5 m-3 rounded'>
             <h3 className=''>{title}</h3>
@@ -10,7 +10,7 @@ const Bookmarks = ({bookmarks}) => {
 };
 
 Bookmarks.prototype = {
-    bookmarks : PropTypes.object
+    bookmark : PropTypes.object
 }
 
 
